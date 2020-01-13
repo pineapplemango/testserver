@@ -1,0 +1,4 @@
+{
+"postCreateCommand": "npm start",
+"appPort": 2345
+}
